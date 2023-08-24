@@ -1,0 +1,8 @@
+.searching{
+    width: calc(100% - 30px);
+    padding: 5px 15px;
+    margin: 15px 15px 5px 15px;
+    border: 2px solid teal;
+    cursor: pointer;
+    background: transparent;
+}

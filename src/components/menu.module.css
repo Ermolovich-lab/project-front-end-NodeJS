@@ -1,0 +1,23 @@
+.menu{
+    display: block;
+    width: calc(100% - 30px);
+    margin: 10px 15px 0 15px;
+}
+
+.menu ul {
+    list-style: none; 
+    display: -webkit-flex; 
+    display: flex;
+    padding-left: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 1em;
+    display: block;
+    border: 2px solid teal;
+}
+
+.menu li{
+    width: 100%;
+}
